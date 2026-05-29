@@ -1,0 +1,5 @@
+2026-05-29 12:15:47,156 [INFO] Seeder inicial: arquivo=fileA_20KB_2peers_4KB.bin tamanho=20480 blocos=5 sha256=0195ef2784a9d93c39daf96c56593705a41b2c6aa75c3580b572fdab1cf973e2
+2026-05-29 12:15:47,177 [INFO] Servidor iniciado em 127.0.0.1:62719
+2026-05-29 12:15:47,178 [INFO] Modo servidor: downloader desabilitado
+2026-05-29 12:15:47,332 [WARNING] falha atendendo ('127.0.0.1', 62722): conexão encerrada antes de receber JSON
+2026-05-29 12:15:47,468 [INFO] SERVED_MANY blocos=5 bytes=20480 arquivo=fileA_20KB_2peers_4KB.bin para=('127.0.0.1', 62725)

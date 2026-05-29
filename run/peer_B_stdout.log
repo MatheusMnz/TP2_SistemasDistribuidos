@@ -1,0 +1,134 @@
+2026-05-29 13:03:23,944 [INFO] Servidor iniciado em 127.0.0.1:5002
+2026-05-29 13:03:23,951 [INFO] META recebido de=127.0.0.1:5001 arquivo=arquivo_original.bin blocos=64
+2026-05-29 13:03:24,012 [INFO] STORED bloco=54 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,013 [INFO] RECEIVED bloco=54 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,014 [INFO] STORED bloco=8 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,014 [INFO] RECEIVED bloco=8 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,016 [INFO] STORED bloco=36 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,017 [INFO] RECEIVED bloco=36 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,018 [INFO] STORED bloco=59 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,018 [INFO] RECEIVED bloco=59 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,019 [INFO] STORED bloco=21 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,019 [INFO] RECEIVED bloco=21 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,020 [INFO] STORED bloco=13 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,021 [INFO] RECEIVED bloco=13 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,022 [INFO] STORED bloco=22 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,022 [INFO] RECEIVED bloco=22 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,023 [INFO] STORED bloco=49 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,024 [INFO] RECEIVED bloco=49 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,025 [INFO] STORED bloco=27 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,025 [INFO] RECEIVED bloco=27 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,026 [INFO] STORED bloco=6 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,026 [INFO] RECEIVED bloco=6 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,027 [INFO] STORED bloco=1 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,028 [INFO] RECEIVED bloco=1 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,029 [INFO] STORED bloco=52 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,029 [INFO] RECEIVED bloco=52 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,031 [INFO] STORED bloco=25 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,031 [INFO] RECEIVED bloco=25 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,033 [INFO] STORED bloco=48 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,033 [INFO] RECEIVED bloco=48 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,035 [INFO] STORED bloco=14 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,035 [INFO] RECEIVED bloco=14 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,036 [INFO] STORED bloco=2 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,036 [INFO] RECEIVED bloco=2 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,038 [INFO] STORED bloco=39 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,038 [INFO] RECEIVED bloco=39 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,039 [INFO] STORED bloco=41 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,040 [INFO] RECEIVED bloco=41 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,041 [INFO] STORED bloco=7 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,041 [INFO] RECEIVED bloco=7 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,042 [INFO] STORED bloco=32 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,042 [INFO] RECEIVED bloco=32 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,043 [INFO] STORED bloco=4 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,043 [INFO] RECEIVED bloco=4 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,044 [INFO] STORED bloco=51 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,044 [INFO] RECEIVED bloco=51 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,045 [INFO] STORED bloco=46 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,046 [INFO] RECEIVED bloco=46 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,046 [INFO] STORED bloco=44 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,046 [INFO] RECEIVED bloco=44 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,047 [INFO] STORED bloco=23 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,047 [INFO] RECEIVED bloco=23 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,048 [INFO] STORED bloco=15 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,048 [INFO] RECEIVED bloco=15 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,049 [INFO] STORED bloco=47 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,049 [INFO] RECEIVED bloco=47 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,050 [INFO] STORED bloco=38 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,051 [INFO] RECEIVED bloco=38 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,051 [INFO] STORED bloco=42 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,052 [INFO] RECEIVED bloco=42 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,053 [INFO] STORED bloco=5 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,053 [INFO] RECEIVED bloco=5 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,054 [INFO] STORED bloco=10 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,054 [INFO] RECEIVED bloco=10 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,055 [INFO] STORED bloco=31 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,055 [INFO] RECEIVED bloco=31 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,056 [INFO] STORED bloco=55 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,056 [INFO] RECEIVED bloco=55 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,057 [INFO] STORED bloco=29 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,057 [INFO] RECEIVED bloco=29 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,058 [INFO] STORED bloco=60 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,058 [INFO] RECEIVED bloco=60 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,059 [INFO] STORED bloco=18 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,059 [INFO] RECEIVED bloco=18 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,060 [INFO] STORED bloco=57 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,060 [INFO] RECEIVED bloco=57 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,061 [INFO] STORED bloco=63 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,061 [INFO] RECEIVED bloco=63 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,062 [INFO] STORED bloco=24 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,062 [INFO] RECEIVED bloco=24 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,063 [INFO] STORED bloco=33 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,064 [INFO] RECEIVED bloco=33 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,064 [INFO] STORED bloco=26 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,065 [INFO] RECEIVED bloco=26 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,065 [INFO] STORED bloco=3 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,066 [INFO] RECEIVED bloco=3 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,066 [INFO] STORED bloco=37 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,067 [INFO] RECEIVED bloco=37 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,068 [INFO] STORED bloco=28 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,068 [INFO] RECEIVED bloco=28 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,069 [INFO] STORED bloco=45 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,069 [INFO] RECEIVED bloco=45 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,070 [INFO] STORED bloco=50 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,071 [INFO] RECEIVED bloco=50 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,072 [INFO] STORED bloco=30 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,072 [INFO] RECEIVED bloco=30 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,073 [INFO] STORED bloco=12 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,073 [INFO] RECEIVED bloco=12 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,074 [INFO] STORED bloco=58 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,074 [INFO] RECEIVED bloco=58 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,075 [INFO] STORED bloco=19 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,075 [INFO] RECEIVED bloco=19 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,076 [INFO] STORED bloco=40 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,076 [INFO] RECEIVED bloco=40 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,077 [INFO] STORED bloco=11 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,077 [INFO] RECEIVED bloco=11 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,078 [INFO] STORED bloco=17 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,078 [INFO] RECEIVED bloco=17 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,079 [INFO] STORED bloco=16 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,080 [INFO] RECEIVED bloco=16 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,080 [INFO] STORED bloco=43 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,081 [INFO] RECEIVED bloco=43 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,082 [INFO] STORED bloco=20 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,082 [INFO] RECEIVED bloco=20 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,083 [INFO] STORED bloco=35 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,083 [INFO] RECEIVED bloco=35 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,084 [INFO] STORED bloco=9 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,084 [INFO] RECEIVED bloco=9 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,085 [INFO] STORED bloco=62 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,085 [INFO] RECEIVED bloco=62 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,086 [INFO] STORED bloco=61 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,086 [INFO] RECEIVED bloco=61 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,087 [INFO] STORED bloco=0 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,087 [INFO] RECEIVED bloco=0 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,088 [INFO] STORED bloco=34 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,088 [INFO] RECEIVED bloco=34 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,089 [INFO] STORED bloco=53 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,089 [INFO] RECEIVED bloco=53 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,090 [INFO] STORED bloco=56 bytes=1024 arquivo=arquivo_original.bin
+2026-05-29 13:03:24,090 [INFO] RECEIVED bloco=56 bytes=1024 arquivo=arquivo_original.bin from=127.0.0.1:5001 peer_remoto=A
+2026-05-29 13:03:24,146 [INFO] ASSEMBLED arquivo=arquivo_original.bin tamanho=65536 sha256=7daca2095d0438260fa849183dfc67faa459fdf4936e1bc91eec6b281b27e4c2
+2026-05-29 13:03:24,147 [INFO] Arquivo completo disponível: arquivo_original.bin
+2026-05-29 13:03:24,439 [INFO] Servidor encerrado
+2026-05-29 13:03:24,442 [INFO] STATUS final arquivo=arquivo_original.bin completo=True blocos=64

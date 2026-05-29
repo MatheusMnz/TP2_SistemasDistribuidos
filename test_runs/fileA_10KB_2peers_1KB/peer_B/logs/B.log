@@ -1,0 +1,27 @@
+2026-05-29 12:15:46,225 [INFO] Metadado carregado: arquivo=fileA_10KB_2peers_1KB.bin tamanho=10240 blocos=10
+2026-05-29 12:15:46,227 [INFO] Servidor iniciado em 127.0.0.1:62711
+2026-05-29 12:15:46,254 [INFO] STORED bloco=1 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,254 [INFO] RECEIVED bloco=1 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,255 [INFO] STORED bloco=6 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,255 [INFO] RECEIVED bloco=6 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,257 [INFO] STORED bloco=3 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,257 [INFO] RECEIVED bloco=3 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,258 [INFO] STORED bloco=9 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,258 [INFO] RECEIVED bloco=9 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,259 [INFO] STORED bloco=4 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,259 [INFO] RECEIVED bloco=4 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,260 [INFO] STORED bloco=0 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,260 [INFO] RECEIVED bloco=0 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,261 [INFO] STORED bloco=2 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,261 [INFO] RECEIVED bloco=2 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,261 [INFO] STORED bloco=7 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,261 [INFO] RECEIVED bloco=7 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,262 [INFO] STORED bloco=5 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,262 [INFO] RECEIVED bloco=5 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,263 [INFO] STORED bloco=8 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,263 [INFO] RECEIVED bloco=8 bytes=1024 arquivo=fileA_10KB_2peers_1KB.bin from=127.0.0.1:62710 peer_remoto=A
+2026-05-29 12:15:46,309 [INFO] ASSEMBLED arquivo=fileA_10KB_2peers_1KB.bin tamanho=10240 sha256=d4bb34b43b308b4591bb74fe11c25b1ded9b4d651d6a1e8d77bb9a32404545de
+2026-05-29 12:15:46,309 [INFO] Arquivo completo disponível: fileA_10KB_2peers_1KB.bin
+2026-05-29 12:15:46,413 [WARNING] falha atendendo ('127.0.0.1', 62718): conexão encerrada antes de receber JSON
+2026-05-29 12:15:46,897 [INFO] Servidor encerrado
+2026-05-29 12:15:46,899 [INFO] STATUS final arquivo=fileA_10KB_2peers_1KB.bin completo=True blocos=10

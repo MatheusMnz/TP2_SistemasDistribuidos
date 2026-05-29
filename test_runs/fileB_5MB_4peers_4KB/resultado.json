@@ -1,0 +1,18 @@
+{
+  "name": "fileB_5MB_4peers_4KB",
+  "peer_count": 4,
+  "block_size": 4096,
+  "file_size": 5242880,
+  "total_blocks": 1280,
+  "duration_seconds": 28.709,
+  "checksum_ok": true,
+  "size_ok": true,
+  "completed_peers": 3,
+  "remote_sources": {
+    "A": 2967,
+    "C": 288,
+    "D": 304,
+    "B": 281
+  },
+  "status": "OK"
+}

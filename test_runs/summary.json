@@ -1,0 +1,32 @@
+[
+  {
+    "name": "fileA_10KB_2peers_1KB",
+    "peer_count": 2,
+    "block_size": 1024,
+    "file_size": 10240,
+    "total_blocks": 10,
+    "duration_seconds": 1.148,
+    "checksum_ok": true,
+    "size_ok": true,
+    "completed_peers": 1,
+    "remote_sources": {
+      "A": 10
+    },
+    "status": "OK"
+  },
+  {
+    "name": "fileA_20KB_2peers_4KB",
+    "peer_count": 2,
+    "block_size": 4096,
+    "file_size": 20480,
+    "total_blocks": 5,
+    "duration_seconds": 1.144,
+    "checksum_ok": true,
+    "size_ok": true,
+    "completed_peers": 1,
+    "remote_sources": {
+      "A": 5
+    },
+    "status": "OK"
+  }
+]

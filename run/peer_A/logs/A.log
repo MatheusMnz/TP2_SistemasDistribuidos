@@ -1,0 +1,5 @@
+2026-05-29 13:03:23,324 [INFO] Seeder inicial: arquivo=arquivo_original.bin tamanho=65536 blocos=64 sha256=7daca2095d0438260fa849183dfc67faa459fdf4936e1bc91eec6b281b27e4c2
+2026-05-29 13:03:23,327 [INFO] Servidor iniciado em 127.0.0.1:5001
+2026-05-29 13:03:23,328 [INFO] Modo servidor: downloader desabilitado
+2026-05-29 13:03:23,951 [INFO] META enviado para ('127.0.0.1', 52662)
+2026-05-29 13:03:24,011 [INFO] SERVED_MANY blocos=64 bytes=65536 arquivo=arquivo_original.bin para=('127.0.0.1', 52664)

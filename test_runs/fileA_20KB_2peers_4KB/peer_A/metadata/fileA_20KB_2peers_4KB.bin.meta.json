@@ -1,0 +1,14 @@
+{
+  "file_name": "fileA_20KB_2peers_4KB.bin",
+  "file_size": 20480,
+  "block_size": 4096,
+  "total_blocks": 5,
+  "file_sha256": "0195ef2784a9d93c39daf96c56593705a41b2c6aa75c3580b572fdab1cf973e2",
+  "block_sha256": [
+    "c499af34280ba0c7115c2a8738e3646f73898ce8cd0f9e64467042ffd7f360e6",
+    "79e0bc53545d4853c5280bc84cf710bf69c54ea1b8a3313957be74b69be8ffab",
+    "ca24af45c6b6d79f99ab29bb0ee67518c4b0071c8f5ec4e97bab93d07bf0c3df",
+    "e6909b6ca155b19f72a37b3cef7fc55fba2d6dbcf69ea3194d3d82d8d69d3f1a",
+    "cc498c80bbc076da15bb7dabbbae4a2a32c81154b9f38693a0b765846e1f2988"
+  ]
+}

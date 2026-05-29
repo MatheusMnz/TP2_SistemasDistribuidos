@@ -1,0 +1,80 @@
+[
+  {
+    "name": "fileA_10KB_2peers_1KB",
+    "peer_count": 2,
+    "block_size": 1024,
+    "file_size": 10240,
+    "total_blocks": 10,
+    "duration_seconds": 4.705,
+    "checksum_ok": true,
+    "size_ok": true,
+    "completed_peers": 1,
+    "remote_sources": {
+      "A": 10
+    },
+    "status": "OK"
+  },
+  {
+    "name": "fileA_20KB_2peers_4KB",
+    "peer_count": 2,
+    "block_size": 4096,
+    "file_size": 20480,
+    "total_blocks": 5,
+    "duration_seconds": 5.177,
+    "checksum_ok": true,
+    "size_ok": true,
+    "completed_peers": 1,
+    "remote_sources": {
+      "A": 5
+    },
+    "status": "OK"
+  },
+  {
+    "name": "fileB_1MB_2peers_1KB",
+    "peer_count": 2,
+    "block_size": 1024,
+    "file_size": 1048576,
+    "total_blocks": 1024,
+    "duration_seconds": 6.193,
+    "checksum_ok": true,
+    "size_ok": true,
+    "completed_peers": 1,
+    "remote_sources": {
+      "A": 1024
+    },
+    "status": "OK"
+  },
+  {
+    "name": "fileB_5MB_4peers_4KB",
+    "peer_count": 4,
+    "block_size": 4096,
+    "file_size": 5242880,
+    "total_blocks": 1280,
+    "duration_seconds": 14.382,
+    "checksum_ok": true,
+    "size_ok": true,
+    "completed_peers": 3,
+    "remote_sources": {
+      "A": 3292,
+      "C": 289,
+      "B": 42,
+      "D": 217
+    },
+    "status": "OK"
+  },
+  {
+    "name": "fileC_10MB_2peers_4KB",
+    "peer_count": 2,
+    "block_size": 4096,
+    "file_size": 10485760,
+    "total_blocks": 2560,
+    "duration_seconds": 9.637,
+    "checksum_ok": true,
+    "size_ok": true,
+    "completed_peers": 1,
+    "remote_sources": {
+      "A": 2560
+    },
+    "status": "OK"
+  }
+]
